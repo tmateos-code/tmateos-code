@@ -1,27 +1,23 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toni%20Mateos&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
-
+<h1>Hola, soy Toni</h1>
 ### 🚀 Estudiante de DAW · Desarrollador Web · Emprendedor
 
 </div>
 
 <br/>
 
-### 👋 Sobre mí
+<h2 align="left">👋 Sobre mi</h2>
 
-Mi meta no es simplemente encontrar un trabajo como programador. Quiero construir mi propio estudio de desarrollo web, trabajar con clientes reales y acabar viviendo de los proyectos que yo mismo consiga. No quiero depender únicamente de un empleo.
-
-Cuando algo me interesa, quiero entenderlo desde la base — no me conformo con copiar código, quiero saber **por qué funciona**, **qué hace cada línea** y **cómo podría hacerlo yo mismo**.
-
-- 🎓 Cursando **Desarrollo de Aplicaciones Web (DAW)**
-- 🏗️ Construyendo **Nova Web Studio**, mi propio estudio de desarrollo web
-- 🌱 Aprendiendo JavaScript, React y profundizando en PHP
-- 💡 Aprendo construyendo proyectos reales, no ejercicios aislados
-- ⚡ El tiempo es mi recurso más limitado — compagino trabajo, estudios y proyectos personales
+🎓 | Cursando **Desarrollo de Aplicaciones Web (DAW)** <br><br>
+🏗️ | Construyendo **Nova Web Studio**, mi propio estudio de desarrollo web <br><br>
+🌱 | Aprendiendo otros lenguajes, como React, Node.js <br><br>
+💡 | Aprendo construyendo proyectos reales, no ejercicios aislados <br><br>
+⚡ | El tiempo es mi recurso más limitado — compagino trabajo, estudios y proyectos personales <br><br>
 
 <div align="right">
-
+<h3>🌟Sigueme en : </h3>
+    
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mateos-aparicio-penalba-42a3112a0/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonimateos.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenovawebstudio/)
@@ -30,9 +26,9 @@ Cuando algo me interesa, quiero entenderlo desde la base — no me conformo con 
 
 <br/>
 
-### 🛠️ Languages & tools I have placed my hands on
+### 🛠️ Lenguajes y herramientas que he utilizado
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,github,cloudflare,windows&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,github,cloudflare,windows,laravel,notion,figma&theme=dark" />
 
 <br/>
 
@@ -99,19 +95,6 @@ Diseño web con estética americana inspirada en California.
 </table>
 
 > 📝 *Las imágenes son marcadores de posición y algunos enlaces son provisionales — los sustituiré por capturas reales y URLs definitivas cuando estén disponibles.*
-
-<br/>
-
-### 🎯 Próximos objetivos
-
-- Dominar JavaScript
-- Aprender React
-- Mejorar PHP
-- Controlar Node.js
-- Crear proyectos completos de principio a fin
-- Conseguir más clientes
-- Terminar DAW
-- Vivir del desarrollo web
 
 <br/>
 
