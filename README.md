@@ -51,7 +51,7 @@ Mi proyecto personal — la base de lo que quiero convertir en mi estudio de des
 
 </td>
 <td width="50%" valign="top">
-<img align="left" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png"/>
+<img align="left" width="100" src="assets/logo_original.png"/>
     
 **🏗️ Web de Reformas**
 
