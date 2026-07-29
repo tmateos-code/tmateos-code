@@ -4,19 +4,15 @@
 
 ### 🚀 Estudiante de DAW · Desarrollador Web · Emprendedor
 
-*"Quiero vivir creando páginas web."*
-
 </div>
 
 <div align="center">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mateos-aparicio-penalba-42a3112a0/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonimateos.dev@gmail.com)
-
-📍 Oliva, Valencia 🇪🇸
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenovawebstudio/)
 
 </div>
-
 <br/>
 
 ### 👋 Sobre mí
@@ -37,29 +33,53 @@ Cuando algo me interesa, quiero entenderlo desde la base — no me conformo con 
 
 **Frontend**
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap&theme=dark" />
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,github,cloudflare,windows&theme=dark" />
 
-**Backend**
-
-<img src="https://skillicons.dev/icons?i=php,mysql&theme=dark" /> &nbsp; `APIs REST` &nbsp; `JSON`
-
-**Herramientas**
-
-<img src="https://skillicons.dev/icons?i=vscode,github,cloudflare,windows&theme=dark" />
 
 <br/>
 
-### 🧱 Proyectos destacados
+🧱 Proyectos destacados
+<table> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=NWS&font=roboto"/>
 
-| Proyecto | Descripción |
-|---|---|
-| **Nova Web Studio** | Mi proyecto personal — la base de lo que quiero convertir en mi estudio de desarrollo web profesional |
-| **Web de Reformas** | Proyecto para una empresa real: panel administrador, gestión de clientes y obras, formularios, diseño responsive |
-| **Web Hermandad** | Proyecto grande con historia, organización, banda, eventos, galería y noticias |
-| **Calculadora de Horas Extras** | Proyecto personal para practicar JavaScript, PHP y bases de datos |
-| **Restaurante Mangula** | Diseño web con estética americana inspirada en California |
+🚀 Nova Web Studio
 
-<br/>
+Mi proyecto personal — la base de lo que quiero convertir en mi estudio de desarrollo web profesional.
+
+Mostrar imagen
+
+</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/16a34a?text=WR&font=roboto"/>
+
+🏗️ Web de Reformas
+
+Proyecto para una empresa real: panel administrador, gestión de clientes y obras, formularios, diseño responsive.
+
+Mostrar imagen
+
+</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=WH&font=roboto"/>
+
+⛪ Web Hermandad
+
+Proyecto grande con historia, organización, banda, eventos, galería y noticias.
+
+Mostrar imagen
+
+</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=HE&font=roboto"/>
+
+🧮 Calculadora de Horas Extras
+
+Proyecto personal para practicar JavaScript, PHP y bases de datos.
+
+Mostrar imagen
+
+</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=RM&font=roboto"/>
+
+🍔 Restaurante Mangula
+
+Diseño web con estética americana inspirada en California.
+
+Mostrar imagen
+
+</td> <td width="50%" valign="top"></td> </tr> </table> 
 
 ### 🎯 Próximos objetivos
 
