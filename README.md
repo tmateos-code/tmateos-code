@@ -2,8 +2,6 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toni%20Mateos&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
-<hr>
-
 ### 🚀 Estudiante de DAW · Desarrollador Web · Emprendedor
 
 </div>
@@ -21,64 +19,88 @@ Cuando algo me interesa, quiero entenderlo desde la base — no me conformo con 
 - 🌱 Aprendiendo JavaScript, React y profundizando en PHP
 - 💡 Aprendo construyendo proyectos reales, no ejercicios aislados
 - ⚡ El tiempo es mi recurso más limitado — compagino trabajo, estudios y proyectos personales
-- 
-<div align="end">
+
+<div align="right">
 
 [![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mateos-aparicio-penalba-42a3112a0/)
 [![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonimateos.dev@gmail.com)
 [![Instagram](https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenovawebstudio/)
 
 </div>
+
 <br/>
 
-### 🛠️ Languages & tools I Have placed my Hands on 
+### 🛠️ Languages & tools I have placed my hands on
+
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,github,cloudflare,windows&theme=dark" />
 
-
 <br/>
 
-🧱 Proyectos destacados
-<table> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=NWS&font=roboto"/>
+### 🧱 Proyectos destacados
 
-🚀 Nova Web Studio
+<table>
+<tr>
+<td width="50%" valign="top">
+<img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=NWS&font=roboto"/>
+
+**🚀 Nova Web Studio**
 
 Mi proyecto personal — la base de lo que quiero convertir en mi estudio de desarrollo web profesional.
 
-Mostrar imagen
+[![Ver proyecto](https://img.shields.io/badge/VER_PROYECTO-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tmateos-code/nova-web-studio)
 
-</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://reformasvidalymunoz.es/img/logo/logo_original.png"/>
+</td>
+<td width="50%" valign="top">
+<img align="left" width="100" src="https://reformasvidalymunoz.es/img/logo/logo_original.png"/>
 
-🏗️ Web de Reformas
+**🏗️ Web de Reformas**
 
 Proyecto para una empresa real: panel administrador, gestión de clientes y obras, formularios, diseño responsive.
 
-Mostrar imagen
+[![Ver proyecto](https://img.shields.io/badge/VER_PROYECTO-16a34a?style=for-the-badge&logo=googlechrome&logoColor=white)](https://reformasvidalymunoz.es/)
 
-</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?&font=roboto"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=WH&font=roboto"/>
 
-⛪ Web Hermandad
+**⛪ Web Hermandad**
 
 Proyecto grande con historia, organización, banda, eventos, galería y noticias.
 
-Mostrar imagen
+[![Ver proyecto](https://img.shields.io/badge/VER_PROYECTO-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tmateos-code/web-hermandad)
 
-</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=HE&font=roboto"/>
+</td>
+<td width="50%" valign="top">
+<img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=HE&font=roboto"/>
 
-🧮 Calculadora de Horas Extras
+**🧮 Calculadora de Horas Extras**
 
 Proyecto personal para practicar JavaScript, PHP y bases de datos.
 
-Mostrar imagen
+[![Ver proyecto](https://img.shields.io/badge/VER_PROYECTO-6366f1?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmateos-code/calculadora-horas-extras)
 
-</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=RM&font=roboto"/>
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+<img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=RM&font=roboto"/>
 
-🍔 Restaurante Mangula
+**🍔 Restaurante Mangula**
 
 Diseño web con estética americana inspirada en California.
 
-Mostrar imagen
+[![Ver proyecto](https://img.shields.io/badge/VER_PROYECTO-6366f1?style=for-the-badge&logo=vercel&logoColor=white)](https://github.com/tmateos-code/restaurante-mangula)
 
-</td> <td width="50%" valign="top"></td> </tr> </table> 
+</td>
+<td width="50%" valign="top"></td>
+</tr>
+</table>
+
+> 📝 *Las imágenes son marcadores de posición y algunos enlaces son provisionales — los sustituiré por capturas reales y URLs definitivas cuando estén disponibles.*
+
+<br/>
 
 ### 🎯 Próximos objetivos
 
@@ -95,7 +117,22 @@ Mostrar imagen
 
 ### 💭 Cómo trabajo
 
-Primero imagino el proyecto completo → diseño cómo debería verse → lo divido en partes pequeñas → aprendo exactamente lo necesario para construir cada una. Prefiero diseños **minimalistas, limpios y modernos**, donde el contenido es el protagonista.
+```mermaid
+flowchart LR
+    A["🧠 Imagino<br/>el proyecto completo"] --> B["🎨 Diseño<br/>cómo debería verse"]
+    B --> C["🧩 Lo divido<br/>en partes pequeñas"]
+    C --> D["📚 Aprendo justo<br/>lo necesario"]
+    D --> E["🚀 Construyo<br/>cada parte"]
+    E -.->|"siguiente parte"| C
+
+    style A fill:#1f2937,stroke:#6366f1,color:#ffffff
+    style B fill:#1f2937,stroke:#6366f1,color:#ffffff
+    style C fill:#1f2937,stroke:#6366f1,color:#ffffff
+    style D fill:#1f2937,stroke:#6366f1,color:#ffffff
+    style E fill:#1f2937,stroke:#6366f1,color:#ffffff
+```
+
+Prefiero diseños **minimalistas, limpios y modernos**, donde el contenido es el protagonista.
 
 <br/>
 
