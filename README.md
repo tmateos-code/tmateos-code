@@ -51,8 +51,8 @@ Mi proyecto personal — la base de lo que quiero convertir en mi estudio de des
 
 </td>
 <td width="50%" valign="top">
-<img align="left" width="100" src="https://reformasvidalymunoz.es/img/logo/logo_original.png"/>
-
+<img align="left" width="100" src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/240px-React-icon.svg.png"/>
+    
 **🏗️ Web de Reformas**
 
 Proyecto para una empresa real: panel administrador, gestión de clientes y obras, formularios, diseño responsive.
