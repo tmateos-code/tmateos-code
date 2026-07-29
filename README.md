@@ -2,17 +2,12 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Toni%20Mateos&fontSize=45&fontColor=ffffff&animation=fadeIn" width="100%"/>
 
+<hr>
+
 ### 🚀 Estudiante de DAW · Desarrollador Web · Emprendedor
 
 </div>
 
-<div align="center">
-
-[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mateos-aparicio-penalba-42a3112a0/)
-[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonimateos.dev@gmail.com)
-[![Instagram](https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenovawebstudio/)
-
-</div>
 <br/>
 
 ### 👋 Sobre mí
@@ -26,13 +21,17 @@ Cuando algo me interesa, quiero entenderlo desde la base — no me conformo con 
 - 🌱 Aprendiendo JavaScript, React y profundizando en PHP
 - 💡 Aprendo construyendo proyectos reales, no ejercicios aislados
 - ⚡ El tiempo es mi recurso más limitado — compagino trabajo, estudios y proyectos personales
+- 
+<div align="end">
 
+[![LinkedIn](https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/antonio-mateos-aparicio-penalba-42a3112a0/)
+[![Gmail](https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tonimateos.dev@gmail.com)
+[![Instagram](https://img.shields.io/badge/INSTAGRAM-D14836?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/thenovawebstudio/)
+
+</div>
 <br/>
 
-### 🛠️ Stack
-
-**Frontend**
-
+### 🛠️ Languages & tools I Have placed my Hands on 
 <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,php,mysql,vscode,github,cloudflare,windows&theme=dark" />
 
 
@@ -47,7 +46,7 @@ Mi proyecto personal — la base de lo que quiero convertir en mi estudio de des
 
 Mostrar imagen
 
-</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/16a34a?text=WR&font=roboto"/>
+</td> <td width="50%" valign="top"> <img align="left" width="100" src="https://reformasvidalymunoz.es/img/logo/logo_original.png"/>
 
 🏗️ Web de Reformas
 
@@ -55,7 +54,7 @@ Proyecto para una empresa real: panel administrador, gestión de clientes y obra
 
 Mostrar imagen
 
-</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=WH&font=roboto"/>
+</td> </tr> <tr> <td width="50%" valign="top"> <img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?&font=roboto"/>
 
 ⛪ Web Hermandad
 
