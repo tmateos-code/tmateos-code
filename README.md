@@ -85,7 +85,7 @@ Proyecto personal para practicar JavaScript, PHP y bases de datos.
 </tr>
 <tr>
 <td width="50%" valign="top">
-<img align="left" width="100" src="https://placehold.co/150x150/1f2937/6366f1?text=RM&font=roboto"/>
+<img align="left" width="100" src="assets/logo-mangula.jpg"/>
 
 **🍔 Restaurante Mangula**
 
