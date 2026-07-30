@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="assets/logo-header"/>
+
 <h1>Hola, soy Toni</h1>
 ### 🚀 Estudiante de DAW · Desarrollador Web · Emprendedor
 
