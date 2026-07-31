@@ -1,6 +1,6 @@
 <div align="center">
 
-<!--<img src="assets/logo-header" style="width:100%; height:200px; object-fit:cover; border-radius:8px;"/> -->
+<img src="assets/logo-header.png" style="width:100%;"/>
 
 # Hola, soy Toni
 
